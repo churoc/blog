@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search> 
+  
+  
+    
+    <entry>
+      <title>Hello World</title>
+      <link href="/2021/12/16/hello-world/"/>
+      <url>/2021/12/16/hello-world/</url>
+      
+        <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p><h1 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h1><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><pre class="line-numbers language-none"><code class="language-none">$ hexo new "My New Post"<span aria-hidden="true" class="line-numbers-rows"><span></span></span></code></pre><p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><pre class="line-numbers language-bash" data-language="bash"><code class="language-bash">$ hexo server<span aria-hidden="true" class="line-numbers-rows"><span></span></span></code></pre><p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><pre class="line-numbers language-bash" data-language="bash"><code class="language-bash">$ hexo generate<span aria-hidden="true" class="line-numbers-rows"><span></span></span></code></pre><p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><pre class="line-numbers language-bash" data-language="bash"><code class="language-bash">$ hexo deploy<span aria-hidden="true" class="line-numbers-rows"><span></span></span></code></pre><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>]]></content>
+      
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>First Test</title>
+      <link href="/2021/12/15/article-title/"/>
+      <url>/2021/12/15/article-title/</url>
+      
+        <content type="html"><![CDATA[<h1 id="第一次尝试-smile"><a href="#第一次尝试-smile" class="headerlink" title="第一次尝试:smile:"></a>第一次尝试<span class="github-emoji"><span>😄</span><img src="https://github.githubassets.com/images/icons/emoji/unicode/1f604.png?v8" aria-hidden="true" onerror="this.parent.classList.add('github-emoji-fallback')"></span></h1><ul><li><h3 id="this-is-codes-of-AdjList"><a href="#this-is-codes-of-AdjList" class="headerlink" title="this is codes of AdjList"></a>this is codes of AdjList</h3></li></ul><pre class="line-numbers language-C" data-language="C"><code class="language-C">#include&lt;stdio.h&gt;#include&lt;stdlib.h&gt;typedef char VertexType;typedef int EdgeType;#define MAXVES 100typedef struct EdgeNode                     //边表结点{    int adjvex;    EdgeType weight;    struct EdgeNode *next;}EdgeNode; typedef struct VertexNode                    //顶点表结点{    VertexType data;    EdgeNode *firstedge;                     //边表头指针}VertexNode;typedef struct                               //图结构{    VertexNode VertexList[MAXVES];           //顶点表结点数组    int numVertexes, numEdges;}AdjList;void CreateAdjList(AdjList *G){    int i, j, k;    EdgeNode *e;    printf("输入顶点数和边数\n");    scanf("%d, %d", &amp;G-&gt;numVertexes, &amp;G-&gt;numEdges);    for(i=0; i&lt;G-&gt;numVertexes; i++)    {        scanf("%c",&amp;G-&gt;VertexList[i].data);           //输入顶点信息        G-&gt;VertexList[i].firstedge=NULL;         //边表置空    }    for(k=0; k&lt;G-&gt;numEdges; k++)    {        printf("输入边的顶点序号\n");        scanf("%d,%d", i, j);        e=(EdgeNode*)malloc(sizeof(EdgeNode)); //生成边表结点        if(!e)            exit(0);        //头插法        e-&gt;adjvex=i;                           //边表结点的顶点数据输入        e-&gt;next=G-&gt;VertexList[i].firstedge;       //边表结点的指向边表头指针        G-&gt;VertexList[i].firstedge=e;             //修改边表头指针为e        e=(EdgeNode*)malloc(sizeof(EdgeNode));        if(!e)            exit(0);        e-&gt;adjvex=j;        e-&gt;next=G-&gt;VertexList[j].firstedge;        G-&gt;VertexList[j].firstedge=e;    }}  <span aria-hidden="true" class="line-numbers-rows"><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span></span></code></pre><p>#code <span id="jump">MarkDown页面内跳转测试</span></p>]]></content>
+      
+      
+      
+    </entry>
+    
+    
+  
+  
+</search>

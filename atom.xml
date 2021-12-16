@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>churoc</title>
+  
+  
+  <link href="http://churoc.github.io/atom.xml" rel="self"/>
+  
+  <link href="http://churoc.github.io/"/>
+  <updated>2021-12-16T07:29:50.710Z</updated>
+  <id>http://churoc.github.io/</id>
+  
+  <author>
+    <name>Jie Gu</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Hello World</title>
+    <link href="http://churoc.github.io/2021/12/16/hello-world/"/>
+    <id>http://churoc.github.io/2021/12/16/hello-world/</id>
+    <published>2021-12-16T06:45:25.511Z</published>
+    <updated>2021-12-16T07:29:50.710Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.io/docs/&quot;&gt;documentation&lt;/a&gt;</summary>
+        
+      
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>First Test</title>
+    <link href="http://churoc.github.io/2021/12/15/article-title/"/>
+    <id>http://churoc.github.io/2021/12/15/article-title/</id>
+    <published>2021-12-15T04:43:21.000Z</published>
+    <updated>2021-12-16T07:40:11.771Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h1 id=&quot;第一次尝试-smile&quot;&gt;&lt;a href=&quot;#第一次尝试-smile&quot; class=&quot;headerlink&quot; title=&quot;第一次尝试:smile:&quot;&gt;&lt;/a&gt;第一次尝试&lt;span class=&quot;github-emoji&quot;&gt;&lt;span&gt;😄&lt;/span&gt;&lt;img</summary>
+        
+      
+    
+    
+    
+    
+  </entry>
+  
+</feed>
