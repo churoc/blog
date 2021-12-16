@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>churoc</title>
+  <title>churoc`s blog</title>
   
-  
+  <subtitle>churoc</subtitle>
   <link href="http://churoc.github.io/atom.xml" rel="self"/>
   
   <link href="http://churoc.github.io/"/>
