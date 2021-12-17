@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>churoc`s Blog</title>
+  <title>churoc’s Blog</title>
   
   <subtitle>churoc</subtitle>
   <link href="http://churoc.github.io/atom.xml" rel="self"/>
@@ -18,9 +18,9 @@
   
   <entry>
     <title>Hello World</title>
-    <link href="http://churoc.github.io/2021/12/16/hello-world/"/>
-    <id>http://churoc.github.io/2021/12/16/hello-world/</id>
-    <published>2021-12-16T06:45:25.511Z</published>
+    <link href="http://churoc.github.io/2021/12/17/hello-world/"/>
+    <id>http://churoc.github.io/2021/12/17/hello-world/</id>
+    <published>2021-12-17T02:12:30.470Z</published>
     <updated>2021-12-16T07:29:50.710Z</updated>
     
     
