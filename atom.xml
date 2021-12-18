@@ -6,7 +6,7 @@
   <link href="http://churoc.github.io/atom.xml" rel="self"/>
   
   <link href="http://churoc.github.io/"/>
-  <updated>2021-12-18T12:08:47.600Z</updated>
+  <updated>2021-12-18T12:12:16.268Z</updated>
   <id>http://churoc.github.io/</id>
   
   <author>
@@ -21,7 +21,7 @@
     <link href="http://churoc.github.io/2021/12/18/ji-qi-xue-xi-xue-xi-bi-ji/"/>
     <id>http://churoc.github.io/2021/12/18/ji-qi-xue-xi-xue-xi-bi-ji/</id>
     <published>2021-12-18T11:56:15.537Z</published>
-    <updated>2021-12-18T12:08:47.600Z</updated>
+    <updated>2021-12-18T12:12:16.268Z</updated>
     
     
       
@@ -32,8 +32,6 @@
         
       
     
-    
-    <content src="http://churoc.github.io/images/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E5%90%B4%E6%81%A9%E8%BE%BE" type="image"/>
     
     
     <category term="机器学习" scheme="http://churoc.github.io/categories/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0/"/>
@@ -70,10 +68,23 @@
   
   <entry>
     <title>过客</title>
+    <link href="http://churoc.github.io/2021/12/17/markdown-mo-ban/"/>
+    <id>http://churoc.github.io/2021/12/17/markdown-mo-ban/</id>
+    <published>2021-12-16T16:00:00.000Z</published>
+    <updated>2021-12-18T12:13:36.873Z</updated>
+    
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>过客</title>
     <link href="http://churoc.github.io/2021/12/17/guo-ke/"/>
     <id>http://churoc.github.io/2021/12/17/guo-ke/</id>
     <published>2021-12-16T16:00:00.000Z</published>
-    <updated>2021-12-18T01:27:21.800Z</updated>
+    <updated>2021-12-18T12:22:37.020Z</updated>
     
     
       
@@ -81,7 +92,7 @@
         
         
     <summary type="html">&lt;p&gt;　　总有一些人,原本只是生命的过客,后来却成了记忆的常客。&lt;/p&gt;
-&lt;p&gt;　　这句话初次看到实在屏保上，但是道出的无奈却让我记忆深刻，尽管时隔多年，仍牢记于心，空暇之余，拿出来放在脑海里细细品读，常常颇有感慨。生命的过客很多，或是从小到大的玩伴，却敌不过成长的冲刷，慢慢沦为</summary>
+&lt;p&gt;　　这句话初次看到是在屏保上，但是道出的无奈却让我记忆深刻，尽管时隔多年，仍牢记于心，空暇之余，拿出来放在脑海里细细品读，常常颇有感慨。生命的过客很多，或是从小到大的玩伴，却敌不过成长的冲刷，慢慢沦为</summary>
         
       
     
