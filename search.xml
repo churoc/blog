@@ -4,9 +4,22 @@
   
     
     <entry>
+      <title>Hello World</title>
+      <link href="/2021/12/17/hello-world/"/>
+      <url>/2021/12/17/hello-world/</url>
+      
+        <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p><h1 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h1><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><pre class="line-numbers language-none"><code class="language-none">$ hexo new "My New Post"<span aria-hidden="true" class="line-numbers-rows"><span></span></span></code></pre><p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><pre class="line-numbers language-bash" data-language="bash"><code class="language-bash">$ hexo server<span aria-hidden="true" class="line-numbers-rows"><span></span></span></code></pre><p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><pre class="line-numbers language-bash" data-language="bash"><code class="language-bash">$ hexo generate<span aria-hidden="true" class="line-numbers-rows"><span></span></span></code></pre><p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><pre class="line-numbers language-bash" data-language="bash"><code class="language-bash">$ hexo deploy<span aria-hidden="true" class="line-numbers-rows"><span></span></span></code></pre><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>]]></content>
+      
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>过客</title>
-      <link href="/2121/12/17/guo-ke/"/>
-      <url>/2121/12/17/guo-ke/</url>
+      <link href="/2021/12/17/guo-ke/"/>
+      <url>/2021/12/17/guo-ke/</url>
       
         <content type="html"><![CDATA[<p>　　总有一些人,原本只是生命的过客,后来却成了记忆的常客。</p><p>　　这句话初次看到实在屏保上，但是道出的无奈却让我记忆深刻，尽管时隔多年，仍牢记于心，空暇之余，拿出来放在脑海里细细品读，常常颇有感慨。生命的过客很多，或是从小到大的玩伴，却敌不过成长的冲刷，慢慢沦为路人，或是一位恩重如山的师长，终会分别于一个阶段的终点，或是彼时相依为伴的同学，或是比赛的队友，或是一个热心帮助的陌生人等等，有的深交过，有的不过是相视一笑，然后擦肩而过，不管怎样，我都觉得他们一定对现在的我的塑造有着不可或缺的作用，杨绛先生曾言，少了任何一个过去都不将是现在的我，同样，少了任何一个过客都不将是现在的我。</p><p>　　但是过客有别，毕竟有的深交，相知相识甚至相爱，但有的或许之间仅在于一场交易，所以有人成为了常客，有人被冲散在记忆的浪尖，我想，我或许该把我的常客们写成散文，有文字来记叙我们的故事，他对我的影响，但是我不想注明是谁，仅当作一个鲜活的性格，因为我碰到重复性格的人很多，往往用一个常客竟然可以大致的揣测另一个的性格，尽管每个人都是特殊的，但是有趣的灵魂万里挑一，大多数还是具有普遍性的普通人。同样，我想把冲散的陌生人写成小说，来演绎他一个不经意的举动引起我的思考，对我哪怕是细枝末节，但也可能改变了我的人生轨迹。</p>]]></content>
       
@@ -23,19 +36,6 @@
             <tag> 随笔 </tag>
             
         </tags>
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>Hello World</title>
-      <link href="/2021/12/17/hello-world/"/>
-      <url>/2021/12/17/hello-world/</url>
-      
-        <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p><h1 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h1><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><pre class="line-numbers language-none"><code class="language-none">$ hexo new "My New Post"<span aria-hidden="true" class="line-numbers-rows"><span></span></span></code></pre><p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><pre class="line-numbers language-bash" data-language="bash"><code class="language-bash">$ hexo server<span aria-hidden="true" class="line-numbers-rows"><span></span></span></code></pre><p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><pre class="line-numbers language-bash" data-language="bash"><code class="language-bash">$ hexo generate<span aria-hidden="true" class="line-numbers-rows"><span></span></span></code></pre><p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><pre class="line-numbers language-bash" data-language="bash"><code class="language-bash">$ hexo deploy<span aria-hidden="true" class="line-numbers-rows"><span></span></span></code></pre><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>]]></content>
-      
-      
       
     </entry>
     
